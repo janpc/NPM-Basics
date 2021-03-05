@@ -1,0 +1,28 @@
+{
+  "name": "NPM-Basics",
+  "version": "1.0.0",
+  "description": "NPM Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janpc/NPM-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janpc/NPM-Basics/issues"
+  },
+  "homepage": "https://github.com/janpc/NPM-Basics#readme",
+  "dependencies": {
+    "lodash": "^4.17.14",
+    "moment": "^2.29.1",
+    "npm": "^7.6.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
